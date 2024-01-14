@@ -6,7 +6,10 @@ With this tool you can directly download or create download link to any GitHub *
 
 ### Website ➦ [DownGit](https://chris1111.github.io/DownGit/#/home)
 
-### Final Release ➦ [Release](https://github.com/chris1111/DownGit/releases/tag/V1)
+### Using StatusBarApp ➦ [StatusBarApp](https://github.com/chris1111/DownGit-StatusBarApp)
+
+### Final Release ➦ [Release](https://github.com/chr
+is1111/DownGit/releases/tag/V1)
 
 ### How to use: Video ⬇︎
 
