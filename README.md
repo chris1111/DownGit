@@ -6,11 +6,13 @@ With this tool you can directly download or create download link to any GitHub *
 
 ### Website ➦ [DownGit](https://chris1111.github.io/DownGit/#/home)
 
-### Release ➦ [MOD_BY_CHRIS1111](https://github.com/chris1111/DownGit/releases/tag/MOD_BY_CHRIS1111)
+### Using StatusBarApp ➦ [StatusBarApp](https://github.com/chris1111/DownGit-StatusBarApp)
 
-### How to Use? ⬇︎
+### Final Release ➦ [Release](https://github.com/chris1111/DownGit/releases/tag/V1)
 
-<table><tr><td> <img src="https://github.com/chris1111/DownGit/raw/master/res/images/Readme.gif" /> </td></tr></table>
+### How to use: Video ⬇︎
+
+https://github.com/chris1111/DownGit/assets/6248794/3ef8f158-93cf-4360-aede-c3222af8c6b0
 
 ##### Advanced Usage
 
