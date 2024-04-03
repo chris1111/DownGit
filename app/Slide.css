@@ -65,13 +65,13 @@ input:checked+.slider:before {
 }
 
 .dark-mode {
-	background: #DBDFE2;
+	background: #848B8F;
 }
 
 /* toggle */
 
 .dark-mode {
-	background-color: #DBDFE2;
+	background-color: #848B8F;
 	color: #2d313a;
 }          
               
