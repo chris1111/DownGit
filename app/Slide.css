@@ -62,7 +62,6 @@ input:checked+.slider {
 input:checked+.slider:before {
 	transform: translateX(30px);
 	content: url("../res/images/sun.circle.png");
-	content: url("../res/images/logo.logo.png");
 }
 
 .dark-mode {
