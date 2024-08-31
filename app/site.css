@@ -1,68 +1,81 @@
-body{
+body {
     font-family: sans-serif, arial;
-    color: #4A4F64;
+    color: white;
     background-color: #2d313a;
 }
 
-h1, h2, h3, h4, h5, h6, p{
+body.dark-mode {
+    color: #4A4F64 !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
     margin: 0;
 }
 
-a{
+a {
     color: #004d99;
-}a:hover{
+}
+
+a:hover {
     text-decoration: none;
     color: #004d99;
 }
 
 /**********************************/
 
-.home .center-row{
+.home .center-row {
     float: none;
     margin: auto;
     padding-bottom: 1em;
 }
 
-.home .vertical-space{
+.home .vertical-space {
     float: none;
     margin: auto;
     padding-bottom: 3em;
 }
 
-.home h1 a{
+.home h1 a {
     color: #4A4F64;
-}.home h1  a:hover{
+}
+
+.home h1 a:hover {
     text-decoration: none;
 }
 
-.home .processing-img{
+.home .processing-img {
     width: 4em;
     height: auto;
 }
 
-.home .download-link-box{
+.home .download-link-box {
     resize: vertical;
 }
 
-.home .footer{
+.home .footer {
     position: fixed;
     bottom: 0;
     width: 100%;
 }
 
-.donate-button{
+.donate-button {
     color: #999999;
-}.donate-button:hover{
+}
+
+.donate-button:hover {
     text-decoration: none;
     color: #ff4444;
 }
 
 /**********************************/
 
-.toast-down{
+.toast-down {
     background-image: url("../res/images/warning.png") !important;
     background-color: #8c8c8c;
 }
-
-
-
